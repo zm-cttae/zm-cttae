@@ -1,1 +1,1 @@
-If you care about VS Code security please read https://github.com/microsoft/vscode/issues/174715 - that is all!
+My areas of interest are software development, test automation and web design.
