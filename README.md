@@ -1,6 +1,6 @@
 - My areas of interest are software development, test automation & web design.
 - I maintain VS Code extensions and libraries. I have other projects under my belt too.
-- Showcase of software testing and cloud:
+- Showcase of software testing and wider engineering skills:
   - 1904labs/dom-to-image-more#135
   - vitaliymaz/vscode-svg-previewer#72
   - [zm-cttae/`matlab-trimesh-stereo-reconstruction`](https://github.com/zm-cttae/matlab-trimesh-stereo-reconstruction#mesh-triangulation-view-of-point-cloud)
