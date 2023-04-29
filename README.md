@@ -1,3 +1,4 @@
+- I'm a Masters student and full-time associate software engineer, usually in the test automation space.
 - My areas of interest are software development, test automation & web design.
 - I maintain VS Code extensions and libraries. I have other projects under my belt too.
 - Showcase of software testing and wider engineering skills:
