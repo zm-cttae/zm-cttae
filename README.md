@@ -1,3 +1,4 @@
 - I'm a Masters student and full-time associate software engineer, usually in the test automation space.
 - My areas of interest are software development, test automation & web design.
 - I maintain developer tools and libraries. I have multiple other projects under my belt too.
+- Pending patents, I am an inventor in the fields of development tooling, computer vision and test automation.
